@@ -24,7 +24,6 @@ An **Online Examination Portal** built with Django, enabling students to take ex
 - [Setup & Installation](#-setup--installation)
 - [API Reference](#-api-reference)
 - [Screenshots](#-screenshots)
-- [Demo](#-demo)
 - [Badges](#-badges)
 - [Acknowledgements](#-acknowledgements)
 - [Appendix](#-appendix)
@@ -91,21 +90,7 @@ For the full API documentation, refer to **Swagger UI/Postman.**
 ---
 
 ## 📷 Screenshots
-### **🔹 Home Page**
-![Home Page]("C:\Users\rnand\Downloads\Screenshot_30-3-2025_12113_127.0.0.1.jpeg")
-
-
-### **🔹 Login Page**
-![Login Page](https://your-image-url.com/login.png)
-
-### **🔹 Student Dashboard**
-![Dashboard](https://your-image-url.com/dashboard.png)
-
-### **🔹 Logout**
-![Logout](https://your-image-url.com/logout.png)
-
-
-
+All screenshots related to the project are neatly organized in a dedicated folder. Explore them to get a visual overview of the application! 🚀✨
 
 ---
 
